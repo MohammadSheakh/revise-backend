@@ -1,0 +1,24 @@
+updat system - but add these flags for production safety
+sudo apt update && sudo apt upgrade -y
+sudo apt autoremove -y # clean unused packages(saves disk)
+sydo apt autoclean -y # remove old .deb files from cache
+
+
+#------------- Node js install
+// safer way is download .. verify checksum .. then execute
+
+#------------ Global package installation
+// dont install everything globally
+-- only pm2 globally, rest in project dependencies
+
+
+
+
+
+
+
+
+
+
+
+
