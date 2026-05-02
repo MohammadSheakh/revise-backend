@@ -1,0 +1,13 @@
+1. roles : 
+    1. customer - accurate ETA, easy recording
+    2. restaurent - steady order, manageable volume, predictable operation
+    3. riders - want fair pay, optimized route, flexible shift
+
+2. 6 core domain inside food delivery platform
+    1. catelog & menu management
+    2. order life cycle
+    3. dispatch and delivery
+    4. pricing and promotion
+    5. restaurant operation 
+    6. customer experience and trust
+
